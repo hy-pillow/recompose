@@ -8,6 +8,7 @@ Recompose
 [![npm downloads](https://img.shields.io/npm/dm/recompose.svg?style=flat-square)](https://www.npmjs.com/package/recompose)
 
 Recompose is a React utility belt for function components and higher-order components. Think of it like lodash for React.
+Recompose是一个功能组件和高阶组件的React多功能腰带，其作用相当于lodash之于React
 
 [**Full API documentation**](docs/API.md) - Learn about each helper
 
